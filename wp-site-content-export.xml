@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Evangelická mládež</title>
-	<link>http://31.31.74.63</link>
+	<link>http://mladez.test</link>
 	<description>Mládež Českobratrské církve evangelické</description>
 	<pubDate>Sat, 20 Jun 2020 14:36:49 +0000</pubDate>
 	<language>cs</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://31.31.74.63</wp:base_site_url>
-	<wp:base_blog_url>http://31.31.74.63</wp:base_blog_url>
+	<wp:base_site_url>http://mladez.test</wp:base_site_url>
+	<wp:base_blog_url>http://mladez.test</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[tobiaspotocek@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Tobiáš Potoček]]></wp:author_display_name><wp:author_first_name><![CDATA[Tobiáš]]></wp:author_first_name><wp:author_last_name><![CDATA[Potoček]]></wp:author_last_name></wp:author>
 
@@ -87,14 +87,14 @@
 <image>
 	<url>/wp-content/uploads/2020/05/cropped-mladez-web-logo-1-150x150.png</url>
 	<title>Evangelická mládež</title>
-	<link>http://31.31.74.63</link>
+	<link>http://mladez.test</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 
 		<item>
 		<title>Comák Áďa Rozbořilová</title>
-		<link>http://31.31.74.63/comak-ada-r</link>
+		<link>http://mladez.test/comak-ada-r</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-ada-r-1.png</guid>
@@ -133,7 +133,7 @@
 							</item>
 					<item>
 		<title>Comák Ája Zapletalová</title>
-		<link>http://31.31.74.63/comak-aja-z</link>
+		<link>http://mladez.test/comak-aja-z</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-aja-z-1.png</guid>
@@ -172,7 +172,7 @@
 							</item>
 					<item>
 		<title>Comák Dominik Bláha</title>
-		<link>http://31.31.74.63/comak-dominik-b</link>
+		<link>http://mladez.test/comak-dominik-b</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-dominik-b-1.png</guid>
@@ -211,7 +211,7 @@
 							</item>
 					<item>
 		<title>Comák Filip Boháč</title>
-		<link>http://31.31.74.63/comak-filip-b</link>
+		<link>http://mladez.test/comak-filip-b</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-filip-b-1.png</guid>
@@ -250,7 +250,7 @@
 							</item>
 					<item>
 		<title>Comák Filip Trusina</title>
-		<link>http://31.31.74.63/comak-filip-t</link>
+		<link>http://mladez.test/comak-filip-t</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-filip-t-1.png</guid>
@@ -289,7 +289,7 @@
 							</item>
 					<item>
 		<title>Comák Jana Hofmanová</title>
-		<link>http://31.31.74.63/comak-jana-h</link>
+		<link>http://mladez.test/comak-jana-h</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-jana-h-1.png</guid>
@@ -328,7 +328,7 @@
 							</item>
 					<item>
 		<title>Comák Jeník Lavický</title>
-		<link>http://31.31.74.63/comak-jenik-l</link>
+		<link>http://mladez.test/comak-jenik-l</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-jenik-l-1.png</guid>
@@ -367,7 +367,7 @@
 							</item>
 					<item>
 		<title>Comák Marta Slámová</title>
-		<link>http://31.31.74.63/comak-marta-s</link>
+		<link>http://mladez.test/comak-marta-s</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-marta-s-1.png</guid>
@@ -406,7 +406,7 @@
 							</item>
 					<item>
 		<title>Comák Saša Jacobea</title>
-		<link>http://31.31.74.63/comak-sasa-j</link>
+		<link>http://mladez.test/comak-sasa-j</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-sasa-j-1.png</guid>
@@ -445,7 +445,7 @@
 							</item>
 					<item>
 		<title>Comák Tobiáš Potoček</title>
-		<link>http://31.31.74.63/comak-tobias-p</link>
+		<link>http://mladez.test/comak-tobias-p</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-tobias-p-1.png</guid>
@@ -484,7 +484,7 @@
 							</item>
 					<item>
 		<title>Comák Tomáš Jun</title>
-		<link>http://31.31.74.63/comak-tomas-j</link>
+		<link>http://mladez.test/comak-tomas-j</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-tomas-j-1.png</guid>
@@ -523,7 +523,7 @@
 							</item>
 					<item>
 		<title>Comák Zuzka Férová</title>
-		<link>http://31.31.74.63/comak-zuzka-f</link>
+		<link>http://mladez.test/comak-zuzka-f</link>
 		<pubDate>Sat, 18 Apr 2020 09:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/comak-zuzka-f-1.png</guid>
@@ -562,7 +562,7 @@
 							</item>
 					<item>
 		<title>Ilustrace COM 2019-2021</title>
-		<link>http://31.31.74.63/ilustrace-com</link>
+		<link>http://mladez.test/ilustrace-com</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-com-1.png</guid>
@@ -601,7 +601,7 @@
 							</item>
 					<item>
 		<title>Ilustrace zubní pasta a kartáčky</title>
-		<link>http://31.31.74.63/ilustrace-zubni-pasta</link>
+		<link>http://mladez.test/ilustrace-zubni-pasta</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-zubni-pasta-1.png</guid>
@@ -640,7 +640,7 @@
 							</item>
 					<item>
 		<title>Ilustrace spící mládežník</title>
-		<link>http://31.31.74.63/ilustrace-spici-mladeznik</link>
+		<link>http://mladez.test/ilustrace-spici-mladeznik</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-spici-mladeznik-1.png</guid>
@@ -679,7 +679,7 @@
 							</item>
 					<item>
 		<title>Ilustrace sbalený spacák</title>
-		<link>http://31.31.74.63/ilustrace-sbaleny-spacak</link>
+		<link>http://mladez.test/ilustrace-sbaleny-spacak</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-sbaleny-spacak-1.png</guid>
@@ -718,7 +718,7 @@
 							</item>
 					<item>
 		<title>Ilustrace rozbalený spacák</title>
-		<link>http://31.31.74.63/ilustrace-rozbaleny-spacak</link>
+		<link>http://mladez.test/ilustrace-rozbaleny-spacak</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-rozbaleny-spacak-1.png</guid>
@@ -757,7 +757,7 @@
 							</item>
 					<item>
 		<title>Ilustrace pomazánky</title>
-		<link>http://31.31.74.63/ilustrace-pomazanky</link>
+		<link>http://mladez.test/ilustrace-pomazanky</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-pomazanky-1.png</guid>
@@ -796,7 +796,7 @@
 							</item>
 					<item>
 		<title>Ilustrace piano</title>
-		<link>http://31.31.74.63/ilustrace-piano</link>
+		<link>http://mladez.test/ilustrace-piano</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-piano-1.png</guid>
@@ -835,7 +835,7 @@
 							</item>
 					<item>
 		<title>Ilustrace Husův dům</title>
-		<link>http://31.31.74.63/ilustrace-husuv-dum</link>
+		<link>http://mladez.test/ilustrace-husuv-dum</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-husuv-dum.png</guid>
@@ -874,10 +874,10 @@
 							</item>
 					<item>
 		<title>Sjezd (nejen) evangelické mládeže 2020</title>
-		<link>http://31.31.74.63/akce/sjezd-nejen-evangelicke-mladeze-2020</link>
+		<link>http://mladez.test/akce/sjezd-nejen-evangelicke-mladeze-2020</link>
 		<pubDate>Thu, 16 Jan 2020 20:12:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?post_type=event&#038;p=58</guid>
+		<guid isPermaLink="false">http://mladez.test/?post_type=event&#038;p=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[Báli jste se, že letos nebude sjezd, co? Tak nebojte, bude a bude skvělej 🥳
 
@@ -891,7 +891,7 @@ Během sjezdu bude také možnost sejít se k Taizé modlitbám a ranním chvál
 
 Sjezdový poplatek letos činí <strong>350 Kč + strava a nocleh</strong>. Přihlašujte se <a href="https://prihlasky.e-cirkev.cz/akce/238-sjezd-nejen-evangelicke-mladeze-2020">tady.</a>
 
-Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu Lali a Ája pod záštitou města Vsetín, ve spolupráci s farními sbory ČCE Vsetín Horní sbor a Dolní sbor, s <a href="http://31.31.74.63/oddeleni-mladeze">oddělením mládeže</a> ČCE a s <a href="http://31.31.74.63/com">Celocírkevním odborem pro mládež</a> (COM).]]></content:encoded>
+Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu Lali a Ája pod záštitou města Vsetín, ve spolupráci s farními sbory ČCE Vsetín Horní sbor a Dolní sbor, s <a href="http://mladez.test/oddeleni-mladeze">oddělením mládeže</a> ČCE a s <a href="http://mladez.test/com">Celocírkevním odborem pro mládež</a> (COM).]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-16 20:12:59]]></wp:post_date>
@@ -956,7 +956,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Ilustrace elektrika</title>
-		<link>http://31.31.74.63/ilustrace-elektrika</link>
+		<link>http://mladez.test/ilustrace-elektrika</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-elektrika-1.png</guid>
@@ -995,7 +995,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Ilustrace evangelický čaj</title>
-		<link>http://31.31.74.63/ilustrace-caj</link>
+		<link>http://mladez.test/ilustrace-caj</link>
 		<pubDate>Sat, 18 Apr 2020 09:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/ilustrace-caj-1.png</guid>
@@ -1034,7 +1034,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, zelený, na výšku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-zeleny-na-vysku</link>
+		<link>http://mladez.test/univerzalni-plakat-zeleny-na-vysku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-zeleny-na-vysku-1.png</guid>
@@ -1073,7 +1073,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, šedomodrý, na výšku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-sedomodry-na-vysku</link>
+		<link>http://mladez.test/univerzalni-plakat-sedomodry-na-vysku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-sedomodry-na-vysku-1.png</guid>
@@ -1112,7 +1112,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, červený, na výšku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-cerveny-na-vysku</link>
+		<link>http://mladez.test/univerzalni-plakat-cerveny-na-vysku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-cerveny-na-vysku-1.png</guid>
@@ -1151,7 +1151,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, žlutý, na šířku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-zluty-na-sirku</link>
+		<link>http://mladez.test/univerzalni-plakat-zluty-na-sirku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-zluty-na-sirku-1.jpg</guid>
@@ -1190,7 +1190,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, červený, na šířku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-cerveny-na-sirku</link>
+		<link>http://mladez.test/univerzalni-plakat-cerveny-na-sirku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-cerveny-na-sirku-1.jpg</guid>
@@ -1229,7 +1229,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, zelený, na šířku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-zeleny-na-sirku</link>
+		<link>http://mladez.test/univerzalni-plakat-zeleny-na-sirku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-zeleny-na-sirku-1.jpg</guid>
@@ -1268,7 +1268,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Univerzální plakát, šedomodrý, na šířku</title>
-		<link>http://31.31.74.63/univerzalni-plakat-sedomodry-na-sirku</link>
+		<link>http://mladez.test/univerzalni-plakat-sedomodry-na-sirku</link>
 		<pubDate>Sat, 18 Apr 2020 09:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/04/univerzalni-plakat-sedomodry-na-sirku-1.jpg</guid>
@@ -1307,7 +1307,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>brigada-belec-tjak-2019</title>
-		<link>http://31.31.74.63/akce/nejaka-random-akce__trashed/attachment/brigada-belec-tjak-2019</link>
+		<link>http://mladez.test/akce/nejaka-random-akce__trashed/attachment/brigada-belec-tjak-2019</link>
 		<pubDate>Sat, 18 Apr 2020 12:39:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/01/brigada-belec-tjak-2019.jpg</guid>
@@ -1338,7 +1338,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>sjezd-2019</title>
-		<link>http://31.31.74.63/akce/sjezd-nejen-evangelicke-mladeze-2020/attachment/sjezd-2019</link>
+		<link>http://mladez.test/akce/sjezd-nejen-evangelicke-mladeze-2020/attachment/sjezd-2019</link>
 		<pubDate>Sat, 18 Apr 2020 12:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/01/sjezd-2019.png</guid>
@@ -1369,7 +1369,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>venite-prozij-a-pouzij</title>
-		<link>http://31.31.74.63/akce/vzdelavaci-vikend-venite/attachment/venite-prozij-a-pouzij</link>
+		<link>http://mladez.test/akce/vzdelavaci-vikend-venite/attachment/venite-prozij-a-pouzij</link>
 		<pubDate>Sat, 18 Apr 2020 12:40:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/wp-content/uploads/2020/01/venite-prozij-a-pouzij.jpg</guid>
@@ -1400,10 +1400,10 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>sjezd2020plakat</title>
-		<link>http://31.31.74.63/akce/sjezd-nejen-evangelicke-mladeze-2020/attachment/sjezd2020plakat</link>
+		<link>http://mladez.test/akce/sjezd-nejen-evangelicke-mladeze-2020/attachment/sjezd2020plakat</link>
 		<pubDate>Fri, 01 May 2020 08:35:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/wp-content/uploads/2020/01/sjezd2020plakat.png</guid>
+		<guid isPermaLink="false">http://mladez.test/wp-content/uploads/2020/01/sjezd2020plakat.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1431,7 +1431,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>cropped-mladez-web-logo.png</title>
-		<link>http://31.31.74.63/cropped-mladez-web-logo-png</link>
+		<link>http://mladez.test/cropped-mladez-web-logo-png</link>
 		<pubDate>Sat, 02 May 2020 18:18:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">/wp-content/uploads/2020/05/cropped-mladez-web-logo.png</guid>
@@ -1466,10 +1466,10 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>mladez-web-logo</title>
-		<link>http://31.31.74.63/mladez-web-logo</link>
+		<link>http://mladez.test/mladez-web-logo</link>
 		<pubDate>Sat, 02 May 2020 18:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/wp-content/uploads/2020/05/mladez-web-logo.png</guid>
+		<guid isPermaLink="false">http://mladez.test/wp-content/uploads/2020/05/mladez-web-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1497,7 +1497,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>cropped-mladez-web-logo-1.png</title>
-		<link>http://31.31.74.63/cropped-mladez-web-logo-1-png</link>
+		<link>http://mladez.test/cropped-mladez-web-logo-1-png</link>
 		<pubDate>Sat, 02 May 2020 18:21:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">/wp-content/uploads/2020/05/cropped-mladez-web-logo-1.png</guid>
@@ -1532,7 +1532,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>cropped-mladez-web-favicon.png</title>
-		<link>http://31.31.74.63/cropped-mladez-web-favicon-png</link>
+		<link>http://mladez.test/cropped-mladez-web-favicon-png</link>
 		<pubDate>Sat, 02 May 2020 18:29:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">/wp-content/uploads/2020/05/cropped-mladez-web-favicon.png</guid>
@@ -1567,7 +1567,7 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>cropped-mladez-web-logo-2.png</title>
-		<link>http://31.31.74.63/cropped-mladez-web-logo-2-png</link>
+		<link>http://mladez.test/cropped-mladez-web-logo-2-png</link>
 		<pubDate>Sat, 02 May 2020 18:30:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">/wp-content/uploads/2020/05/cropped-mladez-web-logo-2.png</guid>
@@ -1602,10 +1602,10 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>kemp-page-001</title>
-		<link>http://31.31.74.63/akce/letni-kemp-mladeze-2020/attachment/kemp-page-001</link>
+		<link>http://mladez.test/akce/letni-kemp-mladeze-2020/attachment/kemp-page-001</link>
 		<pubDate>Sun, 14 Jun 2020 17:39:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/wp-content/uploads/2020/06/kemp-page-001.jpg</guid>
+		<guid isPermaLink="false">http://mladez.test/wp-content/uploads/2020/06/kemp-page-001.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1633,10 +1633,10 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Porada mládeže 2020</title>
-		<link>http://31.31.74.63/akce/porada-mladeze-2020__trashed</link>
+		<link>http://mladez.test/akce/porada-mladeze-2020__trashed</link>
 		<pubDate>Thu, 16 Jan 2020 20:22:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?post_type=event&#038;p=62</guid>
+		<guid isPermaLink="false">http://mladez.test/?post_type=event&#038;p=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[To bude také dobré.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1679,10 +1679,10 @@ Letošní Sjezd (nejen) evangelické mládeže pořádají koordinátorky sjezdu
 							</item>
 					<item>
 		<title>Venite: Prožij a Použij</title>
-		<link>http://31.31.74.63/akce/vzdelavaci-vikend-venite</link>
+		<link>http://mladez.test/akce/vzdelavaci-vikend-venite</link>
 		<pubDate>Sat, 18 Jan 2020 17:23:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?post_type=event&#038;p=71</guid>
+		<guid isPermaLink="false">http://mladez.test/?post_type=event&#038;p=71</guid>
 		<description></description>
 		<content:encoded><![CDATA[Znáte to motto „Co slyším, to zapomenu, co vidím, to si zapamatuji, co zažiji, to dokážu použít“?
 
@@ -1757,10 +1757,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Brigáda Běleč TJAK</title>
-		<link>http://31.31.74.63/akce/nejaka-random-akce__trashed</link>
+		<link>http://mladez.test/akce/nejaka-random-akce__trashed</link>
 		<pubDate>Sat, 18 Jan 2020 17:30:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?post_type=event&#038;p=73</guid>
+		<guid isPermaLink="false">http://mladez.test/?post_type=event&#038;p=73</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1819,10 +1819,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Sjezd (nejen) evangelické mládeže 2019</title>
-		<link>http://31.31.74.63/akce/sjezd-nejen-evangelicke-mladeze-2019__trashed</link>
+		<link>http://mladez.test/akce/sjezd-nejen-evangelicke-mladeze-2019__trashed</link>
 		<pubDate>Sat, 18 Jan 2020 18:03:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?post_type=event&#038;p=75</guid>
+		<guid isPermaLink="false">http://mladez.test/?post_type=event&#038;p=75</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sjezd v Novým Městě!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1869,7 +1869,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Instagram</title>
-		<link>http://31.31.74.63/aktuality/instagram</link>
+		<link>http://mladez.test/aktuality/instagram</link>
 		<pubDate>Sat, 18 Apr 2020 11:11:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=358</guid>
@@ -1924,7 +1924,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Facebook</title>
-		<link>http://31.31.74.63/aktuality/facebook-2</link>
+		<link>http://mladez.test/aktuality/facebook-2</link>
 		<pubDate>Sat, 18 Apr 2020 11:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=382</guid>
@@ -1979,7 +1979,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/389</link>
+		<link>http://mladez.test/aktuality/389</link>
 		<pubDate>Sat, 18 Apr 2020 11:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=389</guid>
@@ -2034,7 +2034,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>COM</title>
-		<link>http://31.31.74.63/aktuality/com</link>
+		<link>http://mladez.test/aktuality/com</link>
 		<pubDate>Sat, 18 Apr 2020 11:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=390</guid>
@@ -2089,7 +2089,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/391</link>
+		<link>http://mladez.test/aktuality/391</link>
 		<pubDate>Sat, 18 Apr 2020 11:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=391</guid>
@@ -2144,7 +2144,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/aktualne</link>
+		<link>http://mladez.test/aktuality/aktualne</link>
 		<pubDate>Sat, 18 Apr 2020 11:16:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=392</guid>
@@ -2199,7 +2199,7 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/405</link>
+		<link>http://mladez.test/aktuality/405</link>
 		<pubDate>Sat, 18 Apr 2020 12:35:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://tatooine/?p=405</guid>
@@ -2254,10 +2254,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>YouTube</title>
-		<link>http://31.31.74.63/aktuality/youtube</link>
+		<link>http://mladez.test/aktuality/youtube</link>
 		<pubDate>Thu, 30 Apr 2020 14:04:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=430</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=430</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2309,10 +2309,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>GitHub</title>
-		<link>http://31.31.74.63/aktuality/https-github-com-mladez-cce</link>
+		<link>http://mladez.test/aktuality/https-github-com-mladez-cce</link>
 		<pubDate>Thu, 30 Apr 2020 14:04:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=431</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=431</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2364,10 +2364,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/468</link>
+		<link>http://mladez.test/aktuality/468</link>
 		<pubDate>Mon, 04 May 2020 19:02:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=468</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=468</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2419,10 +2419,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Svítá pro mobily</title>
-		<link>http://31.31.74.63/aktuality/svita-pro-mobily</link>
+		<link>http://mladez.test/aktuality/svita-pro-mobily</link>
 		<pubDate>Mon, 04 May 2020 20:06:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=474</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=474</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2474,10 +2474,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>ČCE (e-cirkev.cz)</title>
-		<link>http://31.31.74.63/aktuality/cce-e-cirkev-cz</link>
+		<link>http://mladez.test/aktuality/cce-e-cirkev-cz</link>
 		<pubDate>Mon, 04 May 2020 20:06:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=475</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=475</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2529,10 +2529,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Evangnet</title>
-		<link>http://31.31.74.63/aktuality/evangnet</link>
+		<link>http://mladez.test/aktuality/evangnet</link>
 		<pubDate>Mon, 04 May 2020 20:06:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=476</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=476</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2584,10 +2584,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Sdružení evangelické mládeže</title>
-		<link>http://31.31.74.63/aktuality/sdruzeni-evangelicke-mladeze</link>
+		<link>http://mladez.test/aktuality/sdruzeni-evangelicke-mladeze</link>
 		<pubDate>Mon, 04 May 2020 20:06:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=477</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=477</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2639,10 +2639,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Vzdělávací projekt Venite</title>
-		<link>http://31.31.74.63/aktuality/vzdelavaci-projekt-venite</link>
+		<link>http://mladez.test/aktuality/vzdelavaci-projekt-venite</link>
 		<pubDate>Mon, 04 May 2020 20:07:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=478</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=478</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2694,10 +2694,10 @@ Cílovou skupinou jsou SOMáci a další pracovníci s mládeží v církvi, ale
 							</item>
 					<item>
 		<title>Letní kemp mládeže 2020</title>
-		<link>http://31.31.74.63/akce/letni-kemp-mladeze-2020</link>
+		<link>http://mladez.test/akce/letni-kemp-mladeze-2020</link>
 		<pubDate>Sun, 14 Jun 2020 17:40:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?post_type=event&#038;p=532</guid>
+		<guid isPermaLink="false">http://mladez.test/?post_type=event&#038;p=532</guid>
 		<description></description>
 		<content:encoded><![CDATA[Kemp! Srdeční záležitost. ❤️ Přijedeš jednou, přijedeš podruhé, potřetí. Cosi Tě tam táhne. Ono to totiž stojí za to. Tak přijeď i Ty, nech se vtáhnout. 🏃‍♂️🏃
 
@@ -2762,10 +2762,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Sample Page</title>
-		<link>http://31.31.74.63/sample-page__trashed</link>
+		<link>http://mladez.test/sample-page__trashed</link>
 		<pubDate>Sat, 04 Jan 2020 10:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=2</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -2780,7 +2780,7 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 <blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
 <!-- /wp:quote -->
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://31.31.74.63/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="http://mladez.test/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
@@ -2814,16 +2814,16 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Privacy Policy</title>
-		<link>http://31.31.74.63/privacy-policy__trashed</link>
+		<link>http://mladez.test/privacy-policy__trashed</link>
 		<pubDate>Sat, 04 Jan 2020 10:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=3</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2>Who we are</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p>Our website address is: http://31.31.74.63. blah</p>
+<p>Our website address is: http://mladez.test. blah</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2>What personal data we collect and why we collect it</h2>
@@ -2950,12 +2950,12 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>The New UMoMA Opens its Doors</title>
-		<link>http://31.31.74.63/the-new-umoma-opens-its-doors__trashed</link>
+		<link>http://mladez.test/the-new-umoma-opens-its-doors__trashed</link>
 		<pubDate>Sat, 04 Jan 2020 12:47:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=10</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"align":"wide"} --><div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center"} --><h2 class="has-text-align-center">The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months.</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:columns {"align":"wide"} --><div class="wp-block-columns alignwide"><!-- wp:column --><div class="wp-block-column"><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>Works and Days</h3><!-- /wp:heading --><!-- wp:paragraph --><p>August 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>Theatre of Operations</h3><!-- /wp:heading --><!-- wp:paragraph --><p>October 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --><!-- wp:column --><div class="wp-block-column"><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>The Life I Deserve</h3><!-- /wp:heading --><!-- wp:paragraph --><p>August 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>From Signac to Matisse</h3><!-- /wp:heading --><!-- wp:paragraph --><p>October 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --></div><!-- /wp:columns --><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:group {"align":"wide"} --><div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center","textColor":"accent"} --><h2 class="has-accent-color has-text-align-center">”Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.”</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:paragraph {"dropCap":true} --><p class="has-drop-cap">With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p></p><!-- /wp:paragraph --><!-- wp:group {"customBackgroundColor":"#ffffff","align":"wide"} --><div class="wp-block-group alignwide has-background" style="background-color:#ffffff"><div class="wp-block-group__inner-container"><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center"} --><h2 class="has-text-align-center">Become a Member and Get Exclusive Offers!</h2><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} --><p class="has-text-align-center">Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually.</p><!-- /wp:paragraph --><!-- wp:button {"align":"center"} --><div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Join the Club</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div></div><!-- /wp:group --><!-- wp:gallery {"ids":[39,38],"align":"wide"} --><figure class="wp-block-gallery alignwide columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-square-2.png" alt="" data-id="39" data-full-url="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-square-2.png" data-link="assets/images/2020-square-2/" class="wp-image-39"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-square-1.png" alt="" data-id="38" data-full-url="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-square-1.png" data-link="http://31.31.74.63/wp-content/themes/twentytwenty/assets/images/2020-square-1/" class="wp-image-38"/></figure></li></ul></figure><!-- /wp:gallery -->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"wide"} --><div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center"} --><h2 class="has-text-align-center">The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months.</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:columns {"align":"wide"} --><div class="wp-block-columns alignwide"><!-- wp:column --><div class="wp-block-column"><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>Works and Days</h3><!-- /wp:heading --><!-- wp:paragraph --><p>August 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>Theatre of Operations</h3><!-- /wp:heading --><!-- wp:paragraph --><p>October 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --><!-- wp:column --><div class="wp-block-column"><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>The Life I Deserve</h3><!-- /wp:heading --><!-- wp:paragraph --><p>August 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>From Signac to Matisse</h3><!-- /wp:heading --><!-- wp:paragraph --><p>October 1 -- December 1</p><!-- /wp:paragraph --><!-- wp:button {"className":"is-style-outline"} --><div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Read More</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --></div><!-- /wp:columns --><!-- wp:image {"align":"full","id":37,"sizeSlug":"full"} --><figure class="wp-block-image alignfull size-full"><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png" alt="" class="wp-image-37"/></figure><!-- /wp:image --><!-- wp:group {"align":"wide"} --><div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center","textColor":"accent"} --><h2 class="has-accent-color has-text-align-center">”Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.”</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:paragraph {"dropCap":true} --><p class="has-drop-cap">With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p></p><!-- /wp:paragraph --><!-- wp:group {"customBackgroundColor":"#ffffff","align":"wide"} --><div class="wp-block-group alignwide has-background" style="background-color:#ffffff"><div class="wp-block-group__inner-container"><!-- wp:group --><div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center"} --><h2 class="has-text-align-center">Become a Member and Get Exclusive Offers!</h2><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} --><p class="has-text-align-center">Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually.</p><!-- /wp:paragraph --><!-- wp:button {"align":"center"} --><div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/">Join the Club</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div></div><!-- /wp:group --><!-- wp:gallery {"ids":[39,38],"align":"wide"} --><figure class="wp-block-gallery alignwide columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-square-2.png" alt="" data-id="39" data-full-url="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-square-2.png" data-link="assets/images/2020-square-2/" class="wp-image-39"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-square-1.png" alt="" data-id="38" data-full-url="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-square-1.png" data-link="http://mladez.test/wp-content/themes/twentytwenty/assets/images/2020-square-1/" class="wp-image-38"/></figure></li></ul></figure><!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-04 12:47:57]]></wp:post_date>
@@ -2988,10 +2988,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>About me</title>
-		<link>http://31.31.74.63/about__trashed</link>
+		<link>http://mladez.test/about__trashed</link>
 		<pubDate>Sat, 04 Jan 2020 12:47:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=11</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>You might be an artist who would like to introduce yourself and your work here or maybe you’re a business with a mission to describe.</p>
@@ -3028,10 +3028,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Contact</title>
-		<link>http://31.31.74.63/contact__trashed</link>
+		<link>http://mladez.test/contact__trashed</link>
 		<pubDate>Sat, 04 Jan 2020 12:47:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=12</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.</p>
@@ -3068,10 +3068,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Úvodní stránka webu</title>
-		<link>http://31.31.74.63/</link>
+		<link>http://mladez.test/</link>
 		<pubDate>Sat, 11 Jan 2020 16:44:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=43</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Webové stránky mládeže Českobratrské církve evangelické.</p>
@@ -3096,17 +3096,17 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Oddělení mládeže</title>
-		<link>http://31.31.74.63/oddeleni-mladeze</link>
+		<link>http://mladez.test/oddeleni-mladeze</link>
 		<pubDate>Wed, 15 Jan 2020 20:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=48</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Oddělení mládeže je nedělitelnou součástí <a href="https://www.ustredicce.cz/">Ústřední církevní kanceláře</a> (ÚCK) <a href="https://www.e-cirkev.cz/">Českobratrské církve evangelické</a> (ČCE).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Připravuje kurzy a celocírkevní setkání pro mládež v průběhu celého roku, včetně <strong>Sjezdu (nejen) evangelické mládeže</strong> jednou ročně na podzim. </li><li>Má přehled o církevních i necírkevních institucích, které se v České republice zabývají prací s mládeží.</li><li>Rozvíjí kontakty s křesťanskou mládeží v zahraničí.</li><li>Stará se o komunikaci s mládeží ČCE skrz sociální platformy.</li><li>V úzké spolupráci s <a href="http://31.31.74.63/com">Celocírkevním odborem mládeže (COM)</a> a <a href="http://31.31.74.63/somy">seniorátními odbory mládeže</a> (SOM) se snaží podporovat činnosti mládeží napříč celou republikou.</li></ul>
+<ul><li>Připravuje kurzy a celocírkevní setkání pro mládež v průběhu celého roku, včetně <strong>Sjezdu (nejen) evangelické mládeže</strong> jednou ročně na podzim. </li><li>Má přehled o církevních i necírkevních institucích, které se v České republice zabývají prací s mládeží.</li><li>Rozvíjí kontakty s křesťanskou mládeží v zahraničí.</li><li>Stará se o komunikaci s mládeží ČCE skrz sociální platformy.</li><li>V úzké spolupráci s <a href="http://mladez.test/com">Celocírkevním odborem mládeže (COM)</a> a <a href="http://mladez.test/somy">seniorátními odbory mládeže</a> (SOM) se snaží podporovat činnosti mládeží napříč celou republikou.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -3160,10 +3160,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Celocírkevní odbor mládeže</title>
-		<link>http://31.31.74.63/com</link>
+		<link>http://mladez.test/com</link>
 		<pubDate>Wed, 15 Jan 2020 20:09:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=50</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Celocírkevní odbor mládeže (COM), nebo také <em>Poradní odbor mládeže synodní rady</em>, je skupina devíti lidí z řad mládeže a farářů, kteří se věnují práci s mládeži napříč celou ČCE. </p>
@@ -3194,7 +3194,7 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Na většině projektů COM úzce spolupracuje s <a href="http://31.31.74.63/oddeleni-mladeze">oddělením mládeže</a> na ÚCK.</p>
+<p>Na většině projektů COM úzce spolupracuje s <a href="http://mladez.test/oddeleni-mladeze">oddělením mládeže</a> na ÚCK.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -3446,7 +3446,7 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Členové jsou voleni jednou za dva roky na poradě mládeže. Je však možné se zapojit i jinak – nemusíš nutně kandidovat. Můžeš si vybrat oblast, která tě zajímá, a napsat na <a href="http://31.31.74.63/oddeleni-mladeze">OM</a> přes <a href="mailto:mladez@e-cirkev.cz">mladez@e-cirkev.cz</a>, že bys rád pomohl. COM tě rád přizve do svých projektů.</p>
+<p>Členové jsou voleni jednou za dva roky na poradě mládeže. Je však možné se zapojit i jinak – nemusíš nutně kandidovat. Můžeš si vybrat oblast, která tě zajímá, a napsat na <a href="http://mladez.test/oddeleni-mladeze">OM</a> přes <a href="mailto:mladez@e-cirkev.cz">mladez@e-cirkev.cz</a>, že bys rád pomohl. COM tě rád přizve do svých projektů.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>50</wp:post_id>
@@ -3476,10 +3476,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Další</title>
-		<link>http://31.31.74.63/dalsi</link>
+		<link>http://mladez.test/dalsi</link>
 		<pubDate>Wed, 15 Jan 2020 20:10:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=52</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Tady budou odkazy a materiály pro mládež</p>
@@ -3512,10 +3512,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Aktuality</title>
-		<link>http://31.31.74.63/aktuality</link>
+		<link>http://mladez.test/aktuality</link>
 		<pubDate>Sat, 25 Jan 2020 16:40:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=90</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=90</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3542,10 +3542,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Seniorátní odbory mládeže</title>
-		<link>http://31.31.74.63/somy</link>
+		<link>http://mladez.test/somy</link>
 		<pubDate>Mon, 30 Mar 2020 18:19:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=94</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=94</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -3766,10 +3766,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Vysokoškolské mládeže</title>
-		<link>http://31.31.74.63/vysokoskolske-mladeze</link>
+		<link>http://mladez.test/vysokoskolske-mladeze</link>
 		<pubDate>Thu, 23 Apr 2020 15:57:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=427</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=427</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3788,10 +3788,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 														</item>
 					<item>
 		<title>O mládeži</title>
-		<link>http://31.31.74.63/o-mladezi</link>
+		<link>http://mladez.test/o-mladezi</link>
 		<pubDate>Mon, 04 May 2020 18:55:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=466</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=466</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Jsme mladí křesťané, obvykle starší 13 let, nejčastěji z <strong>Českobratrské církve evangelické</strong> (ČCE). Scházíme se v mládežích, které obvykle vznikají pod jednotlivými sbory. Na těchto pravidelných setkáních se pod vedením faráře zamýšlíme nad biblickými texty, modlíme se, zpíváme z našeho zpěvníku Svítá a společně si pomáháme najít cestu k Bohu. Mimo to ale také hrajeme hry, vzděláváme se, navštěvujeme kulturní akce a užíváme si otevřeného společenství, kde je každý srdečně vítán.</p>
@@ -3802,7 +3802,7 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Stejně jako sbory církve se jednotlivé mládeže spojují pod senioráty (církevní obdoba "krajů"). Mládežníky zde v každém seniorátu zastupuje <strong><a href="http://31.31.74.63/somy">seniorátní odbor mládeže</a></strong> (SOM). Volení členové odboru organizují seniorátní akce, od krátkých večerních setkání, přes víkendové "seniorátky"  až k týdenním táborům a brigádám. Program těchto akcí je velmi pestrý, zahrnuje jak duchovní, tak praktické a vzdělávací aktivity. Jádrem však zůstává křesťanské společenství.</p>
+<p>Stejně jako sbory církve se jednotlivé mládeže spojují pod senioráty (církevní obdoba "krajů"). Mládežníky zde v každém seniorátu zastupuje <strong><a href="http://mladez.test/somy">seniorátní odbor mládeže</a></strong> (SOM). Volení členové odboru organizují seniorátní akce, od krátkých večerních setkání, přes víkendové "seniorátky"  až k týdenním táborům a brigádám. Program těchto akcí je velmi pestrý, zahrnuje jak duchovní, tak praktické a vzdělávací aktivity. Jádrem však zůstává křesťanské společenství.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -3814,7 +3814,7 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong><a href="http://31.31.74.63/com">Celocírkevní odbor mládeže</a></strong> (COM) zastupuje mládežníky na celocírkevní úrovni. Společně s <strong><a href="http://31.31.74.63/oddeleni-mladeze">oddělením mládeže</a></strong> (OM) na <a href="https://www.ustredicce.cz/">ústředí</a> naší církve organizují velké celocírkevní akce, pomáhají seniorátním odborům v jejich činnosti a podporují mládežnické dobrovolníky.</p>
+<p><strong><a href="http://mladez.test/com">Celocírkevní odbor mládeže</a></strong> (COM) zastupuje mládežníky na celocírkevní úrovni. Společně s <strong><a href="http://mladez.test/oddeleni-mladeze">oddělením mládeže</a></strong> (OM) na <a href="https://www.ustredicce.cz/">ústředí</a> naší církve organizují velké celocírkevní akce, pomáhají seniorátním odborům v jejich činnosti a podporují mládežnické dobrovolníky.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -3868,10 +3868,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Slovník evangelických pojmů</title>
-		<link>http://31.31.74.63/slovnik-evangelickych-pojmu</link>
+		<link>http://mladez.test/slovnik-evangelickych-pojmu</link>
 		<pubDate>Mon, 04 May 2020 20:03:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=471</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=471</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3894,10 +3894,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>ČCE (ústředí)</title>
-		<link>http://31.31.74.63/aktuality/cce-ustredi</link>
+		<link>http://mladez.test/aktuality/cce-ustredi</link>
 		<pubDate>Mon, 04 May 2020 20:09:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=479</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=479</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3949,10 +3949,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Cookies &amp; soukromí</title>
-		<link>http://31.31.74.63/cookies-soukromi</link>
+		<link>http://mladez.test/cookies-soukromi</link>
 		<pubDate>Sat, 16 May 2020 10:04:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=507</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=507</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Na této stránce nesbíráme žádná uživatelská data o svých návštěvnících (a tedy ani nemáme co sdílet s třetími stranami, za marketingovými či jinými účely).</p>
@@ -3997,13 +3997,13 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Kontakt</title>
-		<link>http://31.31.74.63/kontakt</link>
+		<link>http://mladez.test/kontakt</link>
 		<pubDate>Sun, 14 Jun 2020 17:31:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=527</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=527</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Kontaktujte nás na našem <a href="https://www.facebook.com/evangelickamladez/">Facebooku</a> či skrz <a href="http://31.31.74.63/oddeleni-mladeze">oddělení mládeže</a> na emailové adrese <a href="mailto:mladez@e-cirkev.cz">mladez@e-cirkev.cz</a>.</p>
+<p>Kontaktujte nás na našem <a href="https://www.facebook.com/evangelickamladez/">Facebooku</a> či skrz <a href="http://mladez.test/oddeleni-mladeze">oddělení mládeže</a> na emailové adrese <a href="mailto:mladez@e-cirkev.cz">mladez@e-cirkev.cz</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -4033,10 +4033,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/529</link>
+		<link>http://mladez.test/aktuality/529</link>
 		<pubDate>Sun, 14 Jun 2020 17:32:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=529</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=529</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4088,10 +4088,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Bohoslužby u Martina ve zdi</title>
-		<link>http://31.31.74.63/aktuality/vecerni-bohosluzby-u-martina-ve-zdi</link>
+		<link>http://mladez.test/aktuality/vecerni-bohosluzby-u-martina-ve-zdi</link>
 		<pubDate>Sun, 14 Jun 2020 17:34:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=530</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=530</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4143,10 +4143,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title></title>
-		<link>http://31.31.74.63/aktuality/567</link>
+		<link>http://mladez.test/aktuality/567</link>
 		<pubDate>Sat, 20 Jun 2020 09:54:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=567</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=567</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4198,10 +4198,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>http://31.31.74.63/blog__trashed</link>
+		<link>http://mladez.test/blog__trashed</link>
 		<pubDate>Sat, 04 Jan 2020 12:47:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=13</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4236,10 +4236,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Pražský SOM</title>
-		<link>http://31.31.74.63/prazsky-som__trashed</link>
+		<link>http://mladez.test/prazsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=100</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=100</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4270,10 +4270,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Poděbradský SOM</title>
-		<link>http://31.31.74.63/podebradsky-som__trashed</link>
+		<link>http://mladez.test/podebradsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:23:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=102</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=102</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4304,10 +4304,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Jihočeský SOM</title>
-		<link>http://31.31.74.63/jihocesky-som__trashed</link>
+		<link>http://mladez.test/jihocesky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:23:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=104</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=104</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4338,10 +4338,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Západočeský SOM</title>
-		<link>http://31.31.74.63/zapadocesky-som__trashed</link>
+		<link>http://mladez.test/zapadocesky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=106</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=106</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4372,10 +4372,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Ústecký SOM</title>
-		<link>http://31.31.74.63/ustecky-som__trashed</link>
+		<link>http://mladez.test/ustecky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:23:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=108</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=108</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4406,10 +4406,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Liberecký SOM</title>
-		<link>http://31.31.74.63/liberecky-som__trashed</link>
+		<link>http://mladez.test/liberecky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:23:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=110</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=110</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4440,10 +4440,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Královéhradecký SOM</title>
-		<link>http://31.31.74.63/kralovehradecky-som__trashed</link>
+		<link>http://mladez.test/kralovehradecky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:24:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=112</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=112</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4474,10 +4474,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Chrudimský SOM</title>
-		<link>http://31.31.74.63/chrudimsky-som__trashed</link>
+		<link>http://mladez.test/chrudimsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:24:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=114</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=114</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4508,10 +4508,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Poličský SOM</title>
-		<link>http://31.31.74.63/policsky-som__trashed</link>
+		<link>http://mladez.test/policsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=116</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=116</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4542,10 +4542,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Horácký SOM</title>
-		<link>http://31.31.74.63/horacky-som__trashed</link>
+		<link>http://mladez.test/horacky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:24:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=118</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=118</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4576,10 +4576,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Brněnský SOM</title>
-		<link>http://31.31.74.63/brnensky-som__trashed</link>
+		<link>http://mladez.test/brnensky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:24:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=120</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=120</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4610,10 +4610,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Východomoravský SOM</title>
-		<link>http://31.31.74.63/vychodomoravsky-som__trashed</link>
+		<link>http://mladez.test/vychodomoravsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:25:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=122</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4644,10 +4644,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Moravskoslezský SOM</title>
-		<link>http://31.31.74.63/moravskoslezsky-som__trashed</link>
+		<link>http://mladez.test/moravskoslezsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:25:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=124</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=124</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4678,10 +4678,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Ochranovský SOM</title>
-		<link>http://31.31.74.63/ochranovsky-som__trashed</link>
+		<link>http://mladez.test/ochranovsky-som__trashed</link>
 		<pubDate>Mon, 30 Mar 2020 19:25:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?page_id=126</guid>
+		<guid isPermaLink="false">http://mladez.test/?page_id=126</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4712,7 +4712,7 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>Vyhledávání</title>
-		<link>http://31.31.74.63/vyhledavani__trashed</link>
+		<link>http://mladez.test/vyhledavani__trashed</link>
 		<pubDate>Sat, 09 May 2020 14:56:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://mladez/?page_id=496</guid>
@@ -4754,10 +4754,10 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 					<item>
 		<title>blah</title>
-		<link>http://31.31.74.63/aktuality/blah__trashed</link>
+		<link>http://mladez.test/aktuality/blah__trashed</link>
 		<pubDate>Tue, 16 Jun 2020 21:18:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://31.31.74.63/?p=550</guid>
+		<guid isPermaLink="false">http://mladez.test/?p=550</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4801,4 +4801,3 @@ Nenech si to ujít, zapiš si termín 📆 a už brzy se budeš moci přihlásit
 							</item>
 				</channel>
 </rss>
-	

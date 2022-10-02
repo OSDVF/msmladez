@@ -6,7 +6,6 @@
         "mangoweb/mangopress-sql-panel": "dev-master",
         "mangoweb/mangopress-templating": "dev-master",
         "roots/wp-password-bcrypt": "^1.0",
-        "sentry/sentry": "^1.7",
         "nette/application": "^2.4",
         "nette/bootstrap": "^2.4",
         "nette/caching": "^2.5",
@@ -26,14 +25,12 @@
         "latte/latte": "^2.4",
         "tracy/tracy": "^2.5",
         "nette/di": "^2.4",
-        "wp-cli/wp-cli-bundle": "^2.2"
+        "wp-cli/wp-cli-bundle": "^2.2",
+        "sentry/sdk": "^3.2"
     },
     "config": {
       "preferred-install": "dist",
-      "optimize-autoloader": true,
-      "platform": {
-        "php": "7.0"
-      }
+      "optimize-autoloader": true
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

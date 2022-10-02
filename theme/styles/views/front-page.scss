@@ -4,7 +4,7 @@
 @import "../common/media-query-mixins";
 
 .front-page {
-	$front-page-width: 960px;
+	$front-page-width: 1200px;
 	$content-gutter: $spacer * 4;
 
 	&__header {
@@ -15,6 +15,7 @@
 		// update the parallax effect definition in public/assets/scripts/index.js.
 		background-position: center 40px, center top;
 		background-repeat: repeat-x, repeat-x;
+		overflow: hidden;
 
 		// By default we optimize for small screens and show the boat bellow the
 		// header text.
@@ -24,7 +25,6 @@
 			text-align: center;
 			line-height: 1;
 			margin: 0;
-			padding-top: 30px;
 		}
 
 		&__title {
@@ -36,7 +36,8 @@
 		&__subtitle {
 			font-size: 2.5rem;
 			font-weight: normal;
-			max-width: 300px; // To wrap the subtitle to multiple lines
+			max-width: 200px; // To wrap the subtitle to multiple lines
+			text-align: end;
 			margin: 0 auto;
 			display: block;
 		}
@@ -46,7 +47,7 @@
 			height: 237px;
 			// Move the boat up a little to overlap the text above
 			position: relative;
-			top: -28px;
+			top: 0px;
 		}
 
 		// On bigger screens with enough space, we show the boat to the right of the
@@ -74,7 +75,7 @@
 			&__subtitle {
 				font-size: 3.1rem;
 				line-height: 1.2;
-				max-width: 200px; // To wrap the subtitle to multiple lines
+				max-width: 400px;
 				margin: 0;
 				float: right;
 			}
@@ -108,6 +109,7 @@
 	}
 
 	.page-navbar {
+
 		// Hide the navbar background if it navbar is part of the front-page header
 		// which provides the background on its own.
 		&:before {
@@ -117,11 +119,9 @@
 
 	&__content {
 		margin: 0 auto;
-		max-width: $base-event-thumbnail-width;
-	}
+		max-width: $base-event-thumbnail-width * 2;
 
-	&__posts {
-		h2 {
+		&>h2 {
 			@include secondary-font();
 			font-size: 4rem;
 			font-weight: 700;
@@ -129,16 +129,78 @@
 		}
 	}
 
+	&__posts,
+	&__events {
+		overflow: hidden;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+	}
+
 	&__post {
 		margin-bottom: $spacer * 2;
+		padding: 7px;
+		cursor: pointer;
+
+		width: 400px;
+		flex-grow: 1;
 
 		h3 {
-			font-size: 1.5rem;
-			margin-bottom: 0.5rem;
+			margin-top: 0;
+		}
 
-			a {
-				color: $primary-text-color;
+		&>p {
+			&.fb {
+				max-height: 8.7rem;
+				overflow: hidden;
+
+				&::first-line {
+					font-size: 1.2rem;
+					font-weight: 500;
+					font-family:
+						"Roboto",
+						"Twemoji Mozilla",
+						"Apple Color Emoji",
+						"Segoe UI Emoji",
+						"Segoe UI Symbol",
+						"Noto Color Emoji",
+						"EmojiOne Color",
+						"Android Emoji",
+						sans-serif;
+				}
+
+				&::before {
+					width: 28px;
+					display: inline-block;
+					content: url('/assets/images/fb.svg');
+					vertical-align: middle;
+					transform: translateY(1px);
+				}
+
+				&+div {
+					width: 100%;
+					display: flex;
+					justify-content: center;
+
+					&>img {
+						border-radius: 6px;
+						width: 100%;
+						max-width: 300px;
+						vertical-align: middle;
+						text-align: center;
+						z-index: 1;
+					}
+				}
 			}
+		}
+
+		div.fade {
+			position: relative;
+			transform: translateY(6.7rem);
+			height: 2rem;
+			margin-bottom: -2rem;
+			width: 100%;
+			background: linear-gradient(transparent, #fff);
 		}
 
 		// This is a neat hack :/ Due to WordPress' limitations of the
@@ -151,8 +213,19 @@
 		}
 
 		// ...unless there is "..." present, indicating that there is more to read.
-		.wp-excerpt-more ~ &__read-more {
+		.wp-excerpt-more~&__read-more {
 			display: inline;
+		}
+
+		&:hover {
+			border-radius: 5px;
+			background: #00000023;
+			text-decoration: none;
+			color: $primary-text-color;
+
+			.fade {
+				background: linear-gradient(transparent, #dcdcdc);
+			}
 		}
 	}
 
@@ -160,14 +233,20 @@
 		&__content {
 			width: $front-page-width;
 			max-width: none;
-			display: flex;
 			justify-content: space-between;
 		}
-
-		&__events {
-			width: $base-event-thumbnail-width;
-			flex-shrink: 0;
-			margin-right: $content-gutter;
+		&__post {
+			p.fb {
+				display: inline-block;
+				width: 80%;
+				&+div {
+					width: 20%;
+					float: right;
+				}
+			}
+			.fade{
+				display: none;
+			}
 		}
 	}
 }

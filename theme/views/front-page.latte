@@ -10,7 +10,8 @@
 		<h1>
 			<span class="front-page__header__title">Mládež</span>
 			<span class="front-page__header__subtitle">
-				Českobratrské církve evangelické
+				Moravskoslezského seniorátu
+				ČCE
 			</span>
 		</h1>
 
@@ -19,38 +20,51 @@
 
 	<div class="page-content">
 		<div class="front-page__content">
+			<h2>Co se děje nového</h2>
 			<div class="front-page__events">
 				{if empty($upcomingEvents)}
-					<p>Žádné nadcházející akce :/</p>
+					<p>Žádné nadcházející akce 😕</p>
 				{else}
 					{foreach $upcomingEvents as $event}
 						{include "shared/event-thumbnail.latte", event => $event}
 					{/foreach}
 				{/if}
 
-				<div class="pagination">
-					<div class="pagination__more">
-						<a n:attr="href => get_post_type_archive_link('event')">Zobrazit všechny akce</a>
-					</div>
+			</div>
+			<div class="pagination">
+				<div class="pagination__more">
+					<a n:attr="href => get_post_type_archive_link('event')">Zobrazit všechny akce</a>
 				</div>
 			</div>
 
+			<h2>Aktuality</h2>
 			<div class="front-page__posts">
-				<h2>Co se děje nového</h2>
-
-				<div n:foreach="$latestPosts as $latestPost" class="front-page__post">
-					<h3><a href="{$latestPost|wp_permalink}">{$latestPost|wp_title}</a></h3>
+				<div n:foreach="$latestPosts as $latestPost" class="front-page__post" tabindex="0" onclick="location.href = {$latestPost|wp_permalink}">
+					<h3>{$latestPost|wp_title}</h3>
 					<p>
 						{$latestPost|wp_excerpt}
 						<a class="front-page__post__read-more" href="{$latestPost|wp_permalink}">Pokračovat &gt;</a>
 					</p>
-					<p class="publish-info">Publikováno {$latestPost|wp_date}</p>
+					<div class="publish-info">Publikováno {$latestPost|wp_date}</div>
 				</div>
+			</div>
 
-				<div class="pagination">
-					<div class="pagination__more">
-						<a n:attr="href => get_post_type_archive_link('post')">Zobrazit všechny aktuality</a>
+			<div class="front-page__posts">
+				<div n:foreach="$fbPosts as $fbPost" class="front-page__post" onclick="location.href = {$fbPost->link}">
+					<div class="fade"></div>
+					<p class="fb">
+						{$fbPost->content|noescape}
+					</p>
+					<div>
+							<img n:if='$fbPost->img' src="{$fbPost->img}" />
 					</div>
+					<br>
+					<div class="publish-info">Publikováno {$fbPost->date_time}</div>
+				</div>
+			</div>
+			<div class="pagination">
+				<div class="pagination__more">
+					<a n:attr="href => get_post_type_archive_link('post')">Zobrazit všechny aktuality</a>
 				</div>
 			</div>
 		</div>
