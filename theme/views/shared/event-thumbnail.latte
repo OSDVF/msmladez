@@ -1,4 +1,6 @@
-<div n:class="event-thumbnail, wml_is_event_over($event) ? event-thumbnail-past">
+<div n:class="event-thumbnail, wml_is_event_over($event) ? event-thumbnail-past"
+	tabindex="0"
+	onclick="location.href={$event|wp_permalink}">
 	{if has_post_thumbnail($event)}
 		<div class="event-thumbnail__poster">
 			<a href="{$event|wp_permalink}" title="{$event|wp_title}">

@@ -22,6 +22,12 @@
 	padding-bottom: 50px; // For the fuzzy border.
 	margin-bottom: $component-spacer;
 
+	cursor: pointer;
+	&:hover, &:focus {
+		background-image: url("../images/white-fuzzy-border-bottom.png"),
+		url("../images/bg-gray-pattern.png"), linear-gradient(#00000039,#00000039)
+	}
+
 	&__poster {
 		overflow: hidden;
 		// Create the fuzzy border effect at the bottom of the poster.

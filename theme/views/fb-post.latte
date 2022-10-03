@@ -1,0 +1,21 @@
+{extends @layout.latte}
+
+<div n:block="page-header">
+	<h1>{$title}</h1>
+
+	<div class="page-header__subtitle">
+		<span>{$date}</span>
+		<span><img src="/assets/images/fb.svg" style="transform:translatey(5px)"> Příspěvek z facebooku</span>
+		<span><a href="{$link}">Zobrazit originál</a></span>
+	</div>
+</div>
+
+<div n:block="page-content">
+	{$content|noescape}
+
+	<br>
+	<br>
+	<div style="display:flex;flex-wrap:wrap;gap:10px">
+		<img class="fbImg" n:foreach="$images as $image" src="{$image->src}">
+	</div>
+</div>

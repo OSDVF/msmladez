@@ -59,3 +59,11 @@ addParallaxEffect(
 		style.transform = "translateY(" + offset * SCROLL_SPEED + "px)";
 		style.opacity = Math.max(1 - offset * FADE_SPEED, 0);
 });
+
+
+function fbPost(page, fbId)
+{
+	var a = new URL(page);
+	a.searchParams.set('fbId',fbId);
+	location.href = a.href;
+}

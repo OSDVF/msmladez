@@ -1,19 +1,19 @@
 {extends @layout.latte}
 
 <div n:block="page-content" class="archive">
-	{each}
+	{foreach $posts as $p}
 		<div class="archive__post">
 			<h2 class="archive__post__headline">
-				<a href="{$Post|wp_permalink}">{$Post|wp_title}</a>
+				<a href="{$p|wp_permalink}">{$p|wp_title}</a>
 			</h2>
-			<p class="publish-info">{$Post|wp_date}</p>
+			<p class="publish-info">{$p|wp_date}</p>
 
-			{include "shared/post-body.latte", post => $Post}
+			{include "shared/post-body.latte", post => $p}
 		</div>
-	{/each}
+	{/foreach}
 
 	<div class="pagination">
-		<div class="pagination__next" n:ifcontent>{get_next_posts_link("Starší aktuality")|noescape}</div>
-		<div class="pagination__prev" n:ifcontent>{get_previous_posts_link("Novější aktuality")|noescape}</div>
+		<div class="pagination__next" n:ifcontent>{$next|noescape}</div>
+		<div class="pagination__prev" n:ifcontent>{$prev|noescape}</div>
 	</div>
 </div>
