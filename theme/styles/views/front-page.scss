@@ -44,10 +44,11 @@
 		}
 
 		&__boat {
-			background: url("../images/page-header-bg-boat.png") center center no-repeat;
+			background: url("../images/tree.png") center center no-repeat;
 			height: 237px;
 			// Move the boat up a little to overlap the text above
 			position: relative;
+			opacity: .8;
 			top: 0px;
 		}
 
@@ -88,23 +89,6 @@
 				// Move the boat off-center to the right.
 				background-position: calc(50% + 220px) 50%;
 				z-index: $boat-z-index;
-
-				// Place an animated dove over the boat.
-				&:after {
-					content: "";
-					display: block;
-					position: absolute;
-					z-index: $boat-z-index + 1;
-					background: url("../images/page-header-dove.gif") no-repeat top left;
-					background-size: contain;
-
-					// Make sure that the dove is positioned properly, taking off from the
-					// aft deck and landing to the front circular window.
-					width: 600px;
-					height: 375px;
-					top: -210px;
-					left: calc(50% + 40px);
-				}
 			}
 		}
 	}
