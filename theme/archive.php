@@ -19,10 +19,13 @@ $query->the_post();
 $next = get_next_posts_link("Starší aktuality", $query->max_num_pages);
 $prev = get_previous_posts_link("Novější aktuality");
 
+$fbPosts = get_fb_posts();
+
 view(
 	[
 		'posts' => $query->get_posts(),
 		'next' => $next,
-		'prev' => $prev
+		'prev' => $prev,
+		'fbPosts' => $fbPosts
 	]
 );

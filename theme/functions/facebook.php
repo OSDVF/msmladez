@@ -56,14 +56,14 @@ function convert_fb_post($fb_post, $trim = false, $trimLinks = false)
 	return $fbPost;
 }
 
-function get_fb_posts($maxCount = 3)
+function get_fb_posts($maxCount = PHP_INT_MAX)
 {
 	include_once __DIR__ . '/../access.php';
 	try
 	{
 		$fb  = @file_get_contents("https://graph.facebook.com/$pageId/posts?access_token=$accessToken&fields=message,created_time,full_picture,story");
 	}
-	catch (Exception)
+	catch (Exception $e)
 	{
 		$fb = null;
 	}
@@ -78,7 +78,7 @@ function get_fb_posts($maxCount = 3)
 			{
 				continue;
 			}
-			if ($i++ >= $maxCount)
+			if (++$i >= $maxCount)
 			{
 				break;
 			}
@@ -106,7 +106,7 @@ function get_fb_post($fbId)
 		}
 		$fb = json_decode($fb, false);
 	}
-	catch (Exception)
+	catch (Exception $e)
 	{
 		return null;
 	}

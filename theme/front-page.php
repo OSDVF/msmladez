@@ -23,7 +23,7 @@ $latestPosts = get_posts([
 	"numberposts" => 4,
 ]);
 
-$fbPosts = get_fb_posts();
+$fbPosts = get_fb_posts(4);
 
 view([
 	"upcomingEvents" => $upcomingEvents,
