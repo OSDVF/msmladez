@@ -43,8 +43,8 @@
 		}
 
 		&__boat {
-			background: url("../images/tree.png") center center no-repeat;
-			height: 237px;
+			background: url("../images/dove.png") center center no-repeat;
+			height: 300px;
 			// Move the boat up a little to overlap the text above
 			position: relative;
 			opacity: .8;
@@ -84,7 +84,7 @@
 			&__boat {
 				width: 100%;
 				position: absolute;
-				top: 180px;
+				top: 160px;
 				// Move the boat off-center to the right.
 				background-position: calc(50% + 220px) 50%;
 				z-index: $boat-z-index;

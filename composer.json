@@ -12,7 +12,6 @@
     "nette/component-model": "^2.4",
     "nette/database": "^2.4",
     "nette/finder": "^2.4",
-    "nette/forms": "^2.4",
     "nette/http": "^2.4",
     "nette/mail": "^2.4",
     "nette/neon": "^2.4",
@@ -31,7 +30,8 @@
   "config": {
     "preferred-install": "dist",
     "optimize-autoloader": true,
-    "platform-check": false
+    "platform-check": false,
+    "classmap-authoritative": true
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
