@@ -99,7 +99,7 @@ function get_fb_post($fbId)
 	include_once __DIR__ . '/../access.php';
 	try
 	{
-		$fb  = @file_get_contents("https://graph.facebook.com/$fbId/?access_token=$accessToken&fields=message,attachments{subattachments},created_time");
+		$fb  = @file_get_contents("https://graph.facebook.com/$fbId/?access_token=$accessToken&fields=message,full_picture,attachments{subattachments},created_time");
 		if ($fb == null)
 		{
 			return null;

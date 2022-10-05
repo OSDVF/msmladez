@@ -1,0 +1,80 @@
+@mixin fb-post-padding {
+	padding: 9px;
+	cursor: pointer;
+}
+
+
+.fb {
+	@include fb-post-padding;
+
+	&>.content {
+		&::first-line {
+			font-size: 1.2rem;
+			font-weight: 500;
+			font-family:
+				"Roboto",
+				"Twemoji Mozilla",
+				"Apple Color Emoji",
+				"Segoe UI Emoji",
+				"Segoe UI Symbol",
+				"Noto Color Emoji",
+				"EmojiOne Color",
+				"Android Emoji",
+				sans-serif;
+		}
+
+		&::before {
+			width: 28px;
+			display: inline-block;
+			content: url('/assets/images/fb.svg');
+			vertical-align: middle;
+			transform: translateY(1px);
+		}
+
+		&+div {
+			width: 100%;
+			display: flex;
+			justify-content: center;
+		}
+	}
+}
+
+.fbImg {
+	border-radius: 6px;
+	width: 100%;
+	max-width: $base-event-thumbnail-width;
+	vertical-align: middle;
+	text-align: center;
+	position: relative; //To be shown before the .fade
+
+	&:not(:only-child) {
+		max-width: 300px;
+	}
+}
+
+@include for-desktops-and-larger {
+	.fb {
+		&>p.content {
+			display: inline-block;
+			width: 79.2%;
+			padding-right: .5rem;
+
+			&+div {
+				width: 20%;
+				display: inline-block;
+				vertical-align: top;
+			}
+		}
+
+		.fade {
+			display: none;
+		}
+	}
+}
+
+@mixin fb-post-active {
+	border-radius: 5px;
+	background: #00000023;
+	text-decoration: none;
+	color: $primary-text-color;
+}
