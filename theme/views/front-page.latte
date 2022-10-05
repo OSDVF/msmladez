@@ -51,17 +51,9 @@
 
 			{if $fbPosts != null}
 			<div class="front-page__posts">
-				<div n:foreach="$fbPosts as $fbPost" class="front-page__post" onclick="fbPost({get_permalink(569)},{$fbPost->id})">
-					<div class="fade"></div>
-					<p class="fb">
-						{$fbPost->content|noescape}
-					</p>
-					<div>
-							<img class="fbImg" n:if='$fbPost->img' src="{$fbPost->img}" />
-					</div>
-					<br>
-					<div class="publish-info">Publikováno {$fbPost->date_time}</div>
-				</div>
+				{foreach $fbPosts as $fbPost}
+					{include 'shared/fb-post-body.latte', post=>$fbPost, class=>'front-page__post', info=>true}
+				{/foreach}
 			</div>
 			{else}
 				<img src="/assets/images/fb.svg">	Příspěvky z facebooku se nepodařilo načíst.

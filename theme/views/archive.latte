@@ -16,4 +16,18 @@
 		<div class="pagination__next" n:ifcontent>{$next|noescape}</div>
 		<div class="pagination__prev" n:ifcontent>{$prev|noescape}</div>
 	</div>
+
+	<h1 class="event-thumbnail__date__day">Příspěvky z facebooku</h1>
+
+	{ifset $fbPosts}
+		{foreach $fbPosts as $f}
+			<div class="archive__post">
+				<p class="publish-info">{$f->date_time}</p>
+
+				{include "shared/fb-post-body.latte", post => $f}
+			</div>
+		{/foreach}
+	{else}
+		Nepodařilo se najít žádné příspěvky z facebooku 😶
+	{/ifset}
 </div>

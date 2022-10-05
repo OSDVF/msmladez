@@ -33,7 +33,7 @@ view(
 		'title' => $splitted[0],
 		'date' => $fbPost->date_time,
 		'content' => preg_replace("/\R/", '<br/>', $fbPost->content),
-		'images' => $fbPost->images ?? [],
+		'images' => $fbPost->images ?? [(object)['src' => $fbPost->img]] ?? [], //All attachments or full_picture or nothing
 		'link' => 'https://facebook.com/' . $fbPost->id
 	]
 );

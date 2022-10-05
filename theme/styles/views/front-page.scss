@@ -2,7 +2,6 @@
 @import "../common/config";
 @import "../common/icons";
 @import "../common/media-query-mixins";
-@import "../common/fb-img";
 
 .front-page {
 	$front-page-width: 1200px;
@@ -124,8 +123,7 @@
 
 	&__post {
 		margin-bottom: $spacer * 2;
-		padding: 9px;
-		cursor: pointer;
+		@include fb-post-padding;
 
 		width: 400px;
 		flex-grow: 1;
@@ -134,50 +132,21 @@
 			margin-top: 0;
 		}
 
-		&>p {
-			&.fb {
+		&.fb {
+			&>.content {
 				max-height: 8.7rem;
 				overflow: hidden;
-
-				&::first-line {
-					font-size: 1.2rem;
-					font-weight: 500;
-					font-family:
-						"Roboto",
-						"Twemoji Mozilla",
-						"Apple Color Emoji",
-						"Segoe UI Emoji",
-						"Segoe UI Symbol",
-						"Noto Color Emoji",
-						"EmojiOne Color",
-						"Android Emoji",
-						sans-serif;
-				}
-
-				&::before {
-					width: 28px;
-					display: inline-block;
-					content: url('/assets/images/fb.svg');
-					vertical-align: middle;
-					transform: translateY(1px);
-				}
-
-				&+div {
-					width: 100%;
-					display: flex;
-					justify-content: center;
-				}
 			}
-		}
 
-		div.fade {
-			position: relative;
-			transform: translateY(6.75rem);
-			height: 2rem;
-			margin-bottom: -2rem;
-			width: 100%;
-			background: linear-gradient(transparent, #fff);
-			display: block;
+			&>.fade {
+				position: relative;
+				transform: translateY(6.75rem);
+				height: 2rem;
+				margin-bottom: -2rem;
+				width: 100%;
+				background: linear-gradient(transparent, #fff);
+				display: block;
+			}
 		}
 
 		// This is a neat hack :/ Due to WordPress' limitations of the
@@ -194,11 +163,9 @@
 			display: inline;
 		}
 
-		&:hover, &:focus {
-			border-radius: 5px;
-			background: #00000023;
-			text-decoration: none;
-			color: $primary-text-color;
+		&:hover,
+		&:focus {
+			@include fb-post-active;
 
 			.fade {
 				background: linear-gradient(transparent, #dcdcdc);
@@ -212,22 +179,5 @@
 			max-width: none;
 			justify-content: space-between;
 		}
-		&__post {
-			p.fb {
-				display: inline-block;
-				width: 77%;
-				&+div {
-					width: 20%;
-					float: right;
-				}
-			}
-			.fade{
-				display: none;
-			}
-		}
 	}
-}
-
-.fbImg {
-	@include fbImg;
 }

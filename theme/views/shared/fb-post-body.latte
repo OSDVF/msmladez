@@ -1,0 +1,14 @@
+<div class="{isset($class) ? ($class.' fb') : 'fb'}" onclick="fbPost({get_permalink(569)},{$post->id})" tabindex="0">
+	<div class="fade"></div>
+	<p class="content">
+		{$post->content|noescape}
+	</p>
+
+	<div n:ifset="$post->img">
+		<img class="fbImg" n:if='$post->img' src="{$post->img}" />
+	</div>
+	{if info}
+	<br>
+	<div class="publish-info">Publikováno {$post->date_time}</div>
+	{/if}
+</div>
