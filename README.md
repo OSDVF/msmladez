@@ -7,10 +7,12 @@ evangelické tak, aby seděly na naši mládež.
 
 - Zrcadlení příspěvků z facebooku
 
+Návod pro skopírování:
+
 ## How to run the website locally
 
 The following instructions should work on any Unix-like system (MacOS, Linux).
-For Windows, some steps will have to be worked around.
+For Windows, some steps will have to be worked around. (Mainly WP-CLI does not work at all)
 
 **Prerequisites:**
 
@@ -23,10 +25,12 @@ For Windows, some steps will have to be worked around.
 *   yarn
 *   Composer
 
+For description of individual stack components, see [Stack](#Stack)
+
 Clone the Git repository:
 
 ```
-$ git clone https://github.com/mladez-cce/web.git
+$ git clone https://github.com/osdvf/msmladez.git
 ```
 
 Install PHP & JavaScript dependencies:
@@ -134,7 +138,7 @@ from [`wp-site-content-export.xml`](wp-site-content-export.xml).
 
 For best experience (e.g. to get also the default media imported), first open
 the XML file and replace all instances of the base site url (e.g.
-`http://31.31.74.63/`) with your WordPress URL.
+`http://localhost`) with your WordPress URL.
 
 Note that the export is not intended as backup of the actual website. Its
 purpose is merely to simplify setting up the local dev environment.
