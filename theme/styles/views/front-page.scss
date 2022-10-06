@@ -44,11 +44,11 @@
 
 		&__boat {
 			background: url("../images/dove.png") center center no-repeat;
-			height: 300px;
+			height: 250px;
 			// Move the boat up a little to overlap the text above
 			position: relative;
-			opacity: .8;
-			top: 0px;
+			top: -31px;
+			background-position: 33px center, center, top;
 		}
 
 		// On bigger screens with enough space, we show the boat to the right of the
@@ -83,6 +83,7 @@
 
 			&__boat {
 				width: 100%;
+				height: 300px;
 				position: absolute;
 				top: 160px;
 				// Move the boat off-center to the right.

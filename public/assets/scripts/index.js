@@ -57,7 +57,7 @@ addParallaxEffect(
 		const FADE_SPEED = 0.002;
 
 		style.transform = "translateY(" + offset * SCROLL_SPEED + "px)";
-		style.opacity = Math.max((1 - offset * FADE_SPEED) * 0.8, 0);
+		style.opacity = Math.max((1 - offset * FADE_SPEED) * 0.9, 0);
 	});
 
 
