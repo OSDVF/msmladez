@@ -1,7 +1,11 @@
-# Web evangelické mládeže
+# Web moravskoslezské evangelické mládeže
 
-Oficiální (jak jen mohou být) webové stránky mládeže Českobratrské církve
-evangelické.
+Upravené oficiální (jak jen mohou být) webové stránky mládeže Českobratrské církve
+evangelické tak, aby seděly na naši mládež.
+
+## Přidané schopnosti
+
+- Zrcadlení příspěvků z facebooku
 
 ## How to run the website locally
 
