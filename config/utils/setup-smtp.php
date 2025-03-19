@@ -1,7 +1,7 @@
 <?php declare(strict_types = 1);
 
 $initTheme[] = function () {
-	add_action('phpmailer_init', function (PHPMailer $mailer) {
+	add_action('phpmailer_init', function ($mailer) {// The type should not be enforced (so some SMTP plugins can pass their mail catcher here)
 		global $App;
 		assert($App instanceof \Nette\DI\Container);
 
